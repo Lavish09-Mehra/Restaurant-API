@@ -35,14 +35,10 @@ This project was created to strengthen my understanding of Express routing, Mong
 ```text
 Restaurant-API/
 │
-├── database/
-│   └── menu.js
-│
-├── routes/
-│
+├── menuData.js
 ├── .env
 ├── package.json
-├── server.js
+├── menu.js
 └── README.md
 ```
 
